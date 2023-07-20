@@ -1,0 +1,14 @@
+things to do: 
+Missing Values as information
+kmeans undersampling + Smote 
+XGboost 
+LightGBM 
+
+Data Prepocessing:
+- Aggregation
+- Sampling
+- Discretization and Binarization
+- Attribute Transformation
+- Dimensionality Reduction
+- Feature subset selection
+- Feature creation

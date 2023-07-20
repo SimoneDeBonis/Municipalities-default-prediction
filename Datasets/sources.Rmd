@@ -1,0 +1,81 @@
+# Datasets
+
+### Municipalities status
+
+-   comuni dissesto.xlsx
+
+### Financial indicators by municipalities
+
+-   finanza_comuni.csv
+
+### Italian population by town (2011 - 2018)
+
+-   Classificazioni statistiche-e-dimensione-dei-comuni_31_12_2011.xls
+
+-   Classificazioni statistiche-e-dimensione-dei-comuni_31_12_2018.xls
+
+### Individual taxable income
+
+-   Redditi_e\_principali_variabili_IRPEF_su_base_comunale_CSV_2016.csv
+
+### Mayors
+
+-   sindaci_regioni.csv
+
+### Geospatial data
+
+-   Com01012016_g\_WGS84.shp
+
+### Fondo Solidarietà Comunale (FSC)
+
+-   2017_Metadati_FSC_1\_2022.xlsx
+
+-   2017_VAR_FSC_1\_2022.csv
+
+-   Metadati_Enti_FSC_2022.xlsx
+
++---------------------------------------------------------------------+----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| File name                                                           | Subject                                      | Source                                                                                                                                |
++=====================================================================+==============================================+=======================================================================================================================================+
+| comuni dissesto.xlsx                                                | **Municipalities status**                    | Ministero dell'Interno                                                                                                                |
+|                                                                     |                                              |                                                                                                                                       |
+|                                                                     |                                              | <https://dait.interno.gov.it/documenti/circ-020-finloc-29-10-2020.pdf>, later converted in .xlsx file                                 |
++---------------------------------------------------------------------+----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| finanza_comuni.csv                                                  | **Financial Indicators by municipalities**   | Istat                                                                                                                                 |
+|                                                                     |                                              |                                                                                                                                       |
+|                                                                     |                                              | <http://dati.statistiche-pa.it/FileView2.aspx?IDFile=caba3661-baa3-41c5-a603-aade503dd188>                                            |
++---------------------------------------------------------------------+----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Classificazioni statistiche-e-dimensione-dei-comuni_31_12_2011.xls  | **Italian Population by town (2011 - 2018)** | Istat                                                                                                                                 |
+|                                                                     |                                              |                                                                                                                                       |
+|                                                                     |                                              | <https://www.istat.it/storage/codici-unita-amministrative/Classificazioni-statistiche-Anni_2008-2011.zip>                             |
++---------------------------------------------------------------------+----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Classificazioni statistiche-e-dimensione-dei-comuni_31_12_2018.xls  | **Italian Population by town (2011 - 2018)** | Istat                                                                                                                                 |
+|                                                                     |                                              |                                                                                                                                       |
+|                                                                     |                                              | <https://www.istat.it/storage/codici-unita-amministrative/Classificazioni-statistiche-Anni_2017-2022.zip>                             |
++---------------------------------------------------------------------+----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Redditi_e\_principali_variabili_IRPEF_su_base_comunale_CSV_2016.csv | **Individual Taxable Income**                | Open Data - Ministero dell'Economia e delle Finanze                                                                                   |
+|                                                                     |                                              |                                                                                                                                       |
+|                                                                     |                                              | <https://www1.finanze.gov.it/finanze/analisi_stat/public/index.php?opendata=yes>                                                      |
++---------------------------------------------------------------------+----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| sindaci_regioni.csv                                                 | **Mayors**                                   | Open Data - Dipartimento per gli Affari Interni e Territoriali                                                                        |
+|                                                                     |                                              |                                                                                                                                       |
+|                                                                     |                                              | <https://dait.interno.gov.it/documenti/ammcom.csv>                                                                                    |
++---------------------------------------------------------------------+----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Com01012016_g\_WGS84.shp                                            | **Geospatial Data**                          | Istat                                                                                                                                 |
+|                                                                     |                                              |                                                                                                                                       |
+|                                                                     |                                              | <https://www.istat.it/it/archivio/222527>                                                                                             |
++---------------------------------------------------------------------+----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| 2017_Metadati_FSC_1\_2022.xlsx                                      | **Fondo Solidarietà Comunale (FSC)**         | OpenCivitas                                                                                                                           |
+|                                                                     |                                              |                                                                                                                                       |
+|                                                                     |                                              | <https://www.opencivitas.it/it/dataset/2017-comuni-delle-regioni-statuto-ordinario-%E2%80%93-fondo-di-solidariet%C3%A0-comunale>      |
++---------------------------------------------------------------------+----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| 2017_VAR_FSC_1\_2022.csv                                            | **Fondo Solidarietà Comunale (FSC)**         | OpenCivitas                                                                                                                           |
+|                                                                     |                                              |                                                                                                                                       |
+|                                                                     |                                              | <https://www.opencivitas.it/it/dataset/2017-comuni-delle-regioni-statuto-ordinario-%E2%80%93-fondo-di-solidariet%C3%A0-comunale-2022> |
++---------------------------------------------------------------------+----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Metadati_Enti_FSC_2022.xlsx                                         | **Fondo Solidarietà Comunale (FSC)**         | OpenCivitas                                                                                                                           |
+|                                                                     |                                              |                                                                                                                                       |
+|                                                                     |                                              | <https://www.opencivitas.it/it/dataset/2017-comuni-delle-regioni-statuto-ordinario-%E2%80%93-fondo-di-solidariet%C3%A0-comunale-2022> |
++---------------------------------------------------------------------+----------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+
+### 
